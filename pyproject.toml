@@ -1,0 +1,19 @@
+[project]
+name = "job-radar"
+version = "0.1.0"
+description = "Job Radar for laboratory automation and life sciences roles"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas",
+    "scikit-learn",
+    "streamlit",
+]
+
+[dependency-groups]
+dev = [
+    "pytest",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-p no:cacheprovider"
