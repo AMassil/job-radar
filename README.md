@@ -28,7 +28,7 @@ La vue par cartes, le panorama, le Top 20 et les compteurs multiples ont été r
 
 ## Classement
 
-Le classement mesure la proximité avec les métiers et les compétences du profil. Il ne présume ni zéro année d'expérience ni absence de droit au travail. Les années demandées, diplômes, langues et autorisations de travail ne provoquent aucune exclusion ni pénalité automatique. Les détails de l'annonce restent lisibles intégralement dans la fiche.
+Le classement mesure la proximité avec les métiers et les compétences du profil. Les détails de l'annonce restent lisibles intégralement dans la fiche.
 
 Seuls les intitulés explicitement seniors sont masqués par défaut : Senior, Sr., Principal, Staff Engineer/Scientist, Director, Head of, etc. Le filtre **Inclure les postes seniors** permet de les consulter. Les mots « manager » et « responsable », un intitulé Engineer II, ou les annonces ouvertes à plusieurs niveaux ne suffisent pas à exclure une offre.
 
