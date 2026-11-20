@@ -1,3 +1,4 @@
+"""Job Radar standalone repository."""
 """Job radar for automation and robotics roles in life sciences."""
 
 from .career_sites import CareerCompany, load_career_companies
